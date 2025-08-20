@@ -1,0 +1,75 @@
+{
+  "hero": {
+    "badge": "Smart HDMI backlight",
+    "description": "Transform your screen into an immersive experience with backlighting that adapts in real-time to your content"
+  },
+  "whatIs": {
+    "title": "What is SymTV Light?",
+    "description": "An intelligent backlighting system that captures your HDMI signal and synchronizes LEDs behind your screen",
+    "steps": [
+      {
+        "title": "HDMI Capture",
+        "description": "Real-time analysis of video signal from your console, PC or TV box"
+      },
+      {
+        "title": "Synchronization",
+        "description": "Instantly processes colors and distributes them to LEDs"
+      },
+      {
+        "title": "Immersion",
+        "description": "Visually extends your screen with perfect ambient lighting"
+      }
+    ]
+  },
+  "installation": {
+    "title": "Simple Installation",
+    "description": "Three steps to transform your visual experience",
+    "steps": [
+      {
+        "title": "Console/PC/Box",
+        "description": "Your video source"
+      },
+      {
+        "title": "Symloop Device",
+        "description": "Analyzes and synchronizes"
+      },
+      {
+        "title": "Your TV",
+        "description": "With backlighting"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Why choose SymTV Light?",
+    "items": [
+      {
+        "title": "Reduced eye strain",
+        "description": "Soft ambient lighting reduces contrast between screen and environment, preserving your eyes during long sessions."
+      },
+      {
+        "title": "Total immersion",
+        "description": "Colors from your content extend beyond the screen, creating an enveloping and cinematic visual experience."
+      },
+      {
+        "title": "Plug & play installation",
+        "description": "No complex configuration: plug in your HDMI and instantly enjoy synchronized lighting."
+      }
+    ]
+  },
+  "compatibility": {
+    "title": "Compatible with everything",
+    "description": "Works with all your HDMI devices",
+    "devices": [
+      { "name": "PlayStation", "icon": "🎮" },
+      { "name": "Xbox", "icon": "🎮" },
+      { "name": "PC Gaming", "icon": "💻" },
+      { "name": "TV Box", "icon": "📺" }
+    ]
+  },
+  "cta": {
+    "title": "Ready to illuminate your experience?",
+    "description": "Join thousands of users who have transformed the way they watch television and play video games.",
+    "demo": "Request a demonstration",
+    "pricing": "View pricing"
+  }
+}

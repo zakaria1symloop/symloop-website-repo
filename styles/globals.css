@@ -1,0 +1,300 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* RTL Support */
+html[dir="rtl"] {
+  direction: rtl;
+}
+
+html[dir="rtl"] body {
+  text-align: right;
+}
+
+/* RTL specific styles */
+[dir="rtl"] .rtl\:text-right {
+  text-align: right;
+}
+
+[dir="rtl"] .rtl\:text-left {
+  text-align: left;
+}
+
+[dir="rtl"] .rtl\:flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+[dir="rtl"] .rtl\:space-x-reverse > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+}
+
+/* RTL Chat and Modal adjustments */
+[dir="rtl"] .chat-bubble-user {
+  border-radius: 1rem 1rem 0.125rem 1rem;
+}
+
+[dir="rtl"] .chat-bubble-bot {
+  border-radius: 1rem 1rem 1rem 0.125rem;
+}
+
+/* RTL Arrow animations */
+[dir="rtl"] .group:hover .arrow-rtl {
+  transform: translateX(-0.25rem);
+}
+
+[dir="rtl"] .group:hover .arrow-ltr {
+  transform: translateX(0.25rem);
+}
+
+/* RTL Dropdown positioning */
+[dir="rtl"] .dropdown-rtl {
+  right: auto;
+  left: 0;
+}
+
+/* RTL Grid adjustments for Arabic content */
+[dir="rtl"] .hero-grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .hero-grid .grid-item {
+  text-align: right;
+}
+
+/* Smooth transitions for RTL switching */
+html, body {
+  transition: direction 0.3s ease;
+}
+
+/* Enhanced RTL form styles */
+[dir="rtl"] input, 
+[dir="rtl"] textarea, 
+[dir="rtl"] select {
+  text-align: right;
+}
+
+[dir="rtl"] .form-rtl {
+  direction: rtl;
+}
+
+/* RTL Button improvements */
+[dir="rtl"] .btn-rtl {
+  flex-direction: row-reverse;
+}
+
+[dir="rtl"] .btn-rtl .icon-left {
+  margin-left: 0.5rem;
+  margin-right: 0;
+  order: 2;
+}
+
+[dir="rtl"] .btn-rtl .text {
+  order: 1;
+}
+
+/* RTL Progress bar */
+[dir="rtl"] .progress-rtl {
+  direction: ltr; /* Keep progress bar direction LTR for visual consistency */
+}
+
+/* RTL Company contact specific */
+[dir="rtl"] .company-contact-header {
+  text-align: right;
+}
+
+[dir="rtl"] .step-header-rtl {
+  flex-direction: row-reverse;
+}
+
+[dir="rtl"] .step-icon-rtl {
+  margin-left: 1rem;
+  margin-right: 0;
+}
+
+/* RTL Navigation improvements */
+[dir="rtl"] .nav-buttons-rtl {
+  flex-direction: row-reverse;
+}
+
+/* RTL Badge positioning */
+[dir="rtl"] .badge-rtl {
+  flex-direction: row-reverse;
+}
+
+/* Ensure icons in badges are properly positioned */
+[dir="rtl"] .badge-rtl .badge-icon {
+  margin-left: 0.5rem;
+  margin-right: 0;
+  order: 2;
+}
+
+[dir="rtl"] .badge-rtl .badge-text {
+  order: 1;
+}
+
+/* RTL Products Section Styles */
+[dir="rtl"] .rtl-products {
+  direction: rtl;
+}
+
+[dir="rtl"] .rtl-grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .rtl-product-card {
+  text-align: center;
+}
+
+[dir="rtl"] .rtl-product-card h3 {
+  direction: rtl;
+  text-align: center;
+}
+
+[dir="rtl"] .rtl-product-card p {
+  direction: rtl;
+  text-align: center;
+}
+
+[dir="rtl"] .rtl-cta-btn {
+  direction: rtl;
+}
+
+/* Products animation improvements for RTL */
+[dir="rtl"] .rtl-product-card:hover {
+  transform: translateY(-8px) scale(1.05);
+}
+
+/* Product grid RTL spacing */
+[dir="rtl"] .rtl-grid > * {
+  direction: rtl;
+}
+
+/* Ensure product cards maintain proper spacing in RTL */
+[dir="rtl"] .rtl-products .space-y-4 > * + * {
+  margin-top: 1rem;
+  margin-right: 0;
+}
+
+/* RTL Font optimizations for Arabic */
+[dir="rtl"] {
+  font-family: 'Changa', 'Arial', sans-serif;
+  font-feature-settings: "liga" 1, "kern" 1;
+}
+
+[dir="rtl"] h1, 
+[dir="rtl"] h2, 
+[dir="rtl"] h3, 
+[dir="rtl"] h4, 
+[dir="rtl"] h5, 
+[dir="rtl"] h6 {
+  font-family: 'Changa', 'Arial', sans-serif;
+  line-height: 1.4;
+  letter-spacing: 0;
+}
+
+/* RTL Expertise Section Styles */
+[dir="rtl"] .rtl-expertise {
+  direction: rtl;
+}
+
+[dir="rtl"] .rtl-expertise .grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .rtl-expertise .flex {
+  direction: rtl;
+}
+
+/* RTL Solutions Section Styles */
+[dir="rtl"] .rtl-solutions {
+  direction: rtl;
+}
+
+[dir="rtl"] .rtl-solutions .grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .rtl-solutions .inline-flex {
+  direction: rtl;
+}
+
+/* RTL Technology Section Styles */
+[dir="rtl"] .rtl-technology {
+  direction: rtl;
+}
+
+[dir="rtl"] .rtl-tech-card {
+  text-align: center;
+}
+
+[dir="rtl"] .rtl-technology .grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .rtl-btn {
+  flex-direction: row-reverse;
+}
+
+/* Enhanced RTL animations */
+[dir="rtl"] .rtl-expertise .group:hover,
+[dir="rtl"] .rtl-solutions .group:hover,
+[dir="rtl"] .rtl-technology .group:hover {
+  transform: translateX(2px) translateY(-2px);
+}
+
+/* RTL Badge improvements */
+[dir="rtl"] .rtl-expertise .badge-rtl,
+[dir="rtl"] .rtl-solutions .badge-rtl,
+[dir="rtl"] .rtl-technology .badge-rtl {
+  flex-direction: row-reverse;
+  gap: 0.75rem;
+}
+
+/* RTL Grid spacing improvements */
+[dir="rtl"] .rtl-expertise .grid-cols-1,
+[dir="rtl"] .rtl-solutions .grid-cols-1,
+[dir="rtl"] .rtl-technology .grid-cols-1 {
+  direction: rtl;
+}
+
+/* RTL specific hover effects */
+[dir="rtl"] .rtl-expertise .hover\:translate-x-1:hover {
+  transform: translateX(-0.25rem);
+}
+
+[dir="rtl"] .rtl-solutions .hover\:translate-x-1:hover {
+  transform: translateX(-0.25rem);
+}
+
+[dir="rtl"] .rtl-technology .hover\:translate-x-1:hover {
+  transform: translateX(-0.25rem);
+}
+
+
+@keyframes moveGradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 200% 50%;
+  }
+}
+
+.animate-moveGradient {
+  background-size: 200% 200%;
+  animation: moveGradient 1s linear infinite;
+}
+
+
+@keyframes scroll-long {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-scroll-long {
+  animation: scroll-long 50s linear infinite;
+}

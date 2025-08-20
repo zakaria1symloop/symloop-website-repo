@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "badge": "🚀 Revolutionizing MENA regional administration",
+    "subtitle": "MENA Smart Administration",
+    "description": "The first AI platform dedicated to modernizing administrative procedures in the MENA region. A digital revolution powered by our model",
+    "cta": {
+      "demo": "Request a demonstration",
+      "learnMore": "Learn more"
+    }
+  },
+  "stats": [
+    { "number": "24/7", "label": "Continuous availability", "icon": "🕐" },
+    { "number": "98%", "label": "Response accuracy", "icon": "🎯" },
+    { "number": "3 min", "label": "Average response time", "icon": "⚡" }
+  ],
+  "problem": {
+    "badge": "🚨 Problem identified",
+    "title": "A colossal",
+    "titleAccent": "administrative challenge",
+    "description1": "In the MENA region, administrative procedures are synonymous with excessive delays, endless paperwork and citizen frustration.",
+    "description2": "Waiting lines, lost documents, contradictory information... A reality we decided to transform radically.",
+    "issues": [
+      { "icon": "⏰", "text": "Endless waiting" },
+      { "icon": "📋", "text": "Excessive paperwork" },
+      { "icon": "❌", "text": "Confusing information" },
+      { "icon": "😤", "text": "Citizen frustration" }
+    ]
+  },
+  "solution": {
+    "badge": "✅ Revolutionary solution",
+    "title": "ASA reinvents",
+    "titleAccent": "the citizen",
+    "titleEnd": "experience",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Ask naturally",
+        "desc": "\"How do I get my birth certificate?\"",
+        "icon": "💬",
+        "color": "blue"
+      },
+      {
+        "step": "2",
+        "title": "ASA analyzes instantly",
+        "desc": "Contextual understanding and personalized solution",
+        "icon": "🧠",
+        "color": "purple"
+      },
+      {
+        "step": "3",
+        "title": "Immediate response 24/7",
+        "desc": "Via our ultra-secure and high-performance cloud",
+        "icon": "⚡",
+        "color": "green"
+      }
+    ]
+  },
+  "symd1": {
+    "badge": "🤖 Advanced Artificial Intelligence",
+    "title": "Sym-D1",
+    "subtitle": "Our revolutionary digital brain",
+    "description": "Developed entirely by Symloop, Sym-D1 is a proprietary model designed to understand the MENA regional context, anticipate administrative needs and continuously learn from each interaction.",
+    "features": [
+      { "icon": "🧠", "title": "Continuous learning", "desc": "Improves with each interaction" },
+      { "icon": "🌍", "title": "MENA context", "desc": "Adapted to regional specificities" },
+      { "icon": "🔒", "title": "Maximum security", "desc": "Guaranteed data protection" }
+    ]
+  },
+  "versions": {
+    "title": "Continuous evolution of ASA",
+    "subtitle": "Discover how ASA evolves to better serve citizens in the MENA region",
+    "timeline": [
+      {
+        "version": "v1.0",
+        "title": "Initial launch",
+        "desc": "Solid foundation to support the most common procedures with an intuitive interface.",
+        "date": "January 2024",
+        "color": "blue"
+      },
+      {
+        "version": "v1.1",
+        "title": "AI engine optimization",
+        "desc": "More precise contextual analysis for more relevant and personalized responses.",
+        "date": "March 2024",
+        "color": "green"
+      },
+      {
+        "version": "v1.2",
+        "title": "Extended multilingual support",
+        "desc": "Complete support for Arabic, French and English for all citizens.",
+        "date": "May 2024",
+        "color": "purple"
+      },
+      {
+        "version": "v2.0",
+        "title": "Advanced machine learning",
+        "desc": "Sym-D1 improves its reasoning and accuracy with each citizen interaction.",
+        "date": "July 2024",
+        "color": "orange"
+      }
+    ]
+  },
+  "cta": {
+    "badge": "🌍 MENA Digital Revolution",
+    "title": "Let's build together",
+    "titleBreak": "the digital MENA region",
+    "description": "ASA is not simply a project, it's a revolutionary movement. Join the digital transformation with Symloop and revolutionize administration for all citizens.",
+    "demo": "🚀 Request a demonstration",
+    "contact": "📞 Contact us",
+    "footer": "Developed with ❤️ by Symloop for the MENA region"
+  }
+}

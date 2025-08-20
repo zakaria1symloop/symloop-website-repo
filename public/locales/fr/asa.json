@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "badge": "🚀 Révolutionnons l'administration régionale MENA",
+    "subtitle": "MENA Smart Administration",
+    "description": "La première plateforme IA dédiée à la modernisation des démarches administratives dans la région MENA. Une révolution numérique propulsée par notre modèle",
+    "cta": {
+      "demo": "Demander une démonstration",
+      "learnMore": "En savoir plus"
+    }
+  },
+  "stats": [
+    { "number": "24/7", "label": "Disponibilité continue", "icon": "🕐" },
+    { "number": "98%", "label": "Précision des réponses", "icon": "🎯" },
+    { "number": "3 min", "label": "Temps de réponse moyen", "icon": "⚡" }
+  ],
+  "problem": {
+    "badge": "🚨 Problème identifié",
+    "title": "Un défi administratif",
+    "titleAccent": "colossal",
+    "description1": "Dans la région MENA, les démarches administratives sont synonymes de lenteur excessive, de paperasse interminable et de frustration citoyenne.",
+    "description2": "Files d'attente, documents perdus, informations contradictoires... Une réalité que nous avons décidé de transformer radicalement.",
+    "issues": [
+      { "icon": "⏰", "text": "Attentes interminables" },
+      { "icon": "📋", "text": "Paperasse excessive" },
+      { "icon": "❌", "text": "Informations confuses" },
+      { "icon": "😤", "text": "Frustration citoyenne" }
+    ]
+  },
+  "solution": {
+    "badge": "✅ Solution révolutionnaire",
+    "title": "ASA réinvente",
+    "titleAccent": "l'expérience",
+    "titleEnd": "citoyenne",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Questionnez naturellement",
+        "desc": "\"Comment récupérer mon acte de naissance ?\"",
+        "icon": "💬",
+        "color": "blue"
+      },
+      {
+        "step": "2",
+        "title": "ASA analyse instantanément",
+        "desc": "Compréhension contextuelle et solution personnalisée",
+        "icon": "🧠",
+        "color": "purple"
+      },
+      {
+        "step": "3",
+        "title": "Réponse immédiate 24/7",
+        "desc": "Via notre cloud ultra-sécurisé et performant",
+        "icon": "⚡",
+        "color": "green"
+      }
+    ]
+  },
+  "symd1": {
+    "badge": "🤖 Intelligence Artificielle Avancée",
+    "title": "Sym-D1",
+    "subtitle": "Notre cerveau numérique révolutionnaire",
+    "description": "Développé entièrement par Symloop, Sym-D1 est un modèle propriétaire conçu pour comprendre le contexte régional MENA, anticiper les besoins administratifs et apprendre en continu à chaque interaction.",
+    "features": [
+      { "icon": "🧠", "title": "Apprentissage continu", "desc": "S'améliore à chaque interaction" },
+      { "icon": "🌍", "title": "Contexte MENA", "desc": "Adapté aux spécificités régionales" },
+      { "icon": "🔒", "title": "Sécurité maximale", "desc": "Protection des données garantie" }
+    ]
+  },
+  "versions": {
+    "title": "Évolution continue d'ASA",
+    "subtitle": "Découvrez comment ASA évolue pour mieux servir les citoyens de la région MENA",
+    "timeline": [
+      {
+        "version": "v1.0",
+        "title": "Lancement initial",
+        "desc": "Base solide pour accompagner les démarches les plus courantes avec une interface intuitive.",
+        "date": "Janvier 2024",
+        "color": "blue"
+      },
+      {
+        "version": "v1.1",
+        "title": "Optimisation du moteur IA",
+        "desc": "Analyse contextuelle plus précise pour des réponses plus pertinentes et personnalisées.",
+        "date": "Mars 2024",
+        "color": "green"
+      },
+      {
+        "version": "v1.2",
+        "title": "Support multilingue étendu",
+        "desc": "Prise en charge complète de l'arabe, du français et de l'anglais pour tous les citoyens.",
+        "date": "Mai 2024",
+        "color": "purple"
+      },
+      {
+        "version": "v2.0",
+        "title": "Apprentissage automatique avancé",
+        "desc": "Sym-D1 améliore son raisonnement et sa précision à chaque interaction citoyenne.",
+        "date": "Juillet 2024",
+        "color": "orange"
+      }
+    ]
+  },
+  "cta": {
+    "badge": "🌍 Révolution Numérique MENA",
+    "title": "Construisons ensemble",
+    "titleBreak": "la région MENA numérique",
+    "description": "ASA n'est pas simplement un projet, c'est un mouvement révolutionnaire. Rejoignez la transformation digitale avec Symloop et révolutionnons l'administration pour tous les citoyens.",
+    "demo": "🚀 Demander une démonstration",
+    "contact": "📞 Nous contacter",
+    "footer": "Développé avec ❤️ par Symloop pour la région MENA"
+  }
+}

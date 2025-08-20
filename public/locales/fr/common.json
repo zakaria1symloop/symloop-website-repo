@@ -1,0 +1,1080 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "services": "Services",
+    "products": "Produits",
+    "blog": "Blog",
+    "learning": "Learning",
+    "investors": "Investisseurs",
+    "recruitment": "Recrutement",
+    "ourProducts": "Nos Produits"
+  },
+  "contact": {
+    "location": "Sétif, région MENA",
+    "phone": "+213 549 57 55 12",
+    "email": "contact@symloop.com",
+    "freeConsultation": "Consultation Gratuite",
+    "followUs": "Suivez-nous",
+    "chooseMethod": "Choisissez votre méthode",
+    "whatsapp": "WhatsApp",
+    "viber": "Viber",
+    "telephone": "Téléphone"
+  },
+  "hero": {
+    "slogan": "🚀 Excellence Digitale • Symloop MENA",
+    "title": "Créons l'Excellence",
+    "titleAccent": "Digitale",
+    "subtitle": "Ensemble.",
+    "description": "Transformez vos ambitions les plus audacieuses en solutions digitales exceptionnelles. Notre expertise technique et notre vision créative construisent l'avenir de votre entreprise.",
+    "cta": "Démarrer Mon Projet",
+    "ctaSecondary": "Consultation Gratuite",
+    "learnMore": "En savoir plus",
+    "serviceSelector": "Quelle révolution voulez-vous lancer ?",
+    "technologies": "Développement Sur Mesure • Applications Mobiles • Solutions Web • Infrastructure Cloud",
+    "stats": {
+      "satisfaction": "Satisfaction Client",
+      "partners": "Projets Réalisés",
+      "experience": "Années d'Excellence",
+      "support": "Support Premium",
+      "projects": "Projets IT Réalisés",
+      "clientSatisfaction": "Taux Satisfaction Client",
+      "clients": "Entreprises Clientes MENA",
+      "yearsExperience": "Années Excellence IT"
+    },
+    "services": {
+      "web": {
+        "name": "Sites Web",
+        "price": "60k-500k DA"
+      },
+      "mobile": {
+        "name": "Apps Mobile",
+        "price": "180k-1.2M DA"
+      },
+      "erp": {
+        "name": "ERP/CRM",
+        "price": "500k-3M DA"
+      },
+      "ai": {
+        "name": "Solutions IA",
+        "price": "200k-2M DA"
+      }
+    },
+    "valueProps": {
+      "delivery": {
+        "title": "Livraison Garantie",
+        "description": "Méthodologie agile avec livraisons toutes les 2 semaines. Respect des délais ou remboursement partiel."
+      },
+      "security": {
+        "title": "Sécurité & Conformité MENA",
+        "description": "Code sécurisé, conformité réglementaire MENA, protection des données et NDA systématique."
+      },
+      "support": {
+        "title": "Support Expert 24/7",
+        "description": "Équipe technique disponible 24h/24, 7j/7 dans toute la région MENA avec SLA garanti."
+      }
+    },
+    "testimonials": {
+      "client1": {
+        "text": "Symloop a révolutionné notre processus commercial avec un ERP sur mesure. Notre productivité a augmenté de 60% et nos coûts ont diminué de 35%. Une équipe d'experts qui comprend parfaitement les défis des entreprises MENA.",
+        "author": "Ahmed Belkacem",
+        "role": "Directeur Général • EURL TechCorp MENA",
+        "location": "région MENA"
+      },
+      "client2": {
+        "text": "Notre plateforme e-commerce développée par Symloop génère maintenant plus de 1500 commandes par mois. L'intégration du paiement CIB et Edahabia a été parfaite. ROI exceptionnel en moins de 8 mois !",
+        "author": "Fatima Benali",
+        "role": "CEO • EcomDZ Marketplace",
+        "location": "Oran"
+      },
+      "client3": {
+        "text": "Application mobile de géolocalisation pour nos 500+ livreurs. Interface intuitive, performance excellente, support technique réactif. Symloop maîtrise parfaitement les technologies modernes.",
+        "author": "Karim Boumediene",
+        "role": "CTO • DeliveryDZ",
+        "location": "Constantine"
+      }
+    },
+    "statsSection": {
+      "title": "Notre Excellence en Chiffres"
+    },
+    "techStack": {
+      "title": "Technologies Maîtrisées"
+    },
+    "scrollIndicator": "Découvrir nos réalisations",
+    "technologies": {
+      "custom": "Développement Sur Mesure",
+      "mobile": "Applications Mobiles",
+      "web": "Solutions Web",
+      "cloud": "Infrastructure Cloud"
+    }
+  },
+  "search": {
+    "placeholder1": "Je veux créer un site web...",
+    "placeholder2": "J'ai besoin d'une application mobile...",
+    "placeholder3": "Je cherche une solution d'hébergement...",
+    "placeholder4": "Je veux développer un logiciel sur mesure..."
+  },
+  "products": {
+    "title": "Nos Produits",
+    "subtitle": "Des solutions innovantes développées avec passion",
+    "asa": {
+      "title": "ASA",
+      "name": "ASA - MENA Smart Administration",
+      "description": "Plateforme de digitalisation des démarches administratives dans la région MENA.",
+      "badge": "Nouveau"
+    },
+    "symtv": {
+      "title": "SymTV Light",
+      "name": "SymTV Light",
+      "description": "Solution d'éclairage ambiant intelligent pour TV et Home Cinema."
+    },
+    "ibtissama": {
+      "title": "El-Ibtissama Soft",
+      "name": "El-Ibtissama Soft",
+      "description": "Jeu interactif de projection AR où les enfants apprennent en bougeant et en touchant le sol."
+    },
+    "edusmart": {
+      "title": "EduSmart",
+      "description": "Plateforme éducative intelligente pour l'apprentissage.",
+      "badge": "Bientôt"
+    }
+  },
+  "expertise": {
+    "title": "Solutions IT Complètes",
+    "titleAccent": "pour Entreprises MENA",
+    "subtitle": "Leader IT dans la région MENA depuis 2012. Développement logiciel, infrastructure réseau, bases de données, cloud. Solutions adaptées aux besoins locaux.",
+    "technologiesTitle": "Technologies Maîtrisées",
+    "ctaQuestion": "Besoin d'une solution IT sur mesure pour votre entreprise ?",
+    "footer": "Symloop - Solutions informatiques professionnelles dans la région MENA. Développement logiciel | Infrastructure réseau | Bases de données | Cloud computing",
+    "stats": {
+      "experience": "Années d'Expérience",
+      "projects": "Projets Réalisés",
+      "clients": "Entreprises Clientes",
+      "wilayas": "Pays MENA Couverts"
+    },
+    "software": {
+      "title": "Développement Logiciel",
+      "subtitle": "Solutions Sur Mesure MENA",
+      "description": "ERP, CRM, applications métiers conformes aux normes MENA. Java, .NET, PHP Laravel.",
+      "features": ["ERP/CRM personnalisés", "Applications métiers MENA", "Conformité réglementaire"],
+      "metric": "50+",
+      "metricLabel": "Projets livrés"
+    },
+    "network": {
+      "title": "Infrastructure Réseau",
+      "subtitle": "Solutions Cisco & Datacenter",
+      "description": "Installation, configuration, maintenance réseaux entreprises. Serveurs, switches, sécurité.",
+      "features": ["Architecture réseau", "Pare-feu & VPN", "Maintenance 24/7"],
+      "metric": "10+",
+      "metricLabel": "Entreprises connectées"
+    },
+    "database": {
+      "title": "Base de Données",
+      "subtitle": "Oracle, MySQL, PostgreSQL",
+      "description": "Conception, optimisation, migration bases de données. Big Data et Business Intelligence.",
+      "features": ["Migration données", "Optimisation performance", "Backup & récupération"],
+      "metric": "50TB+",
+      "metricLabel": "Données gérées"
+    },
+    "cloud": {
+      "title": "Cloud & Hébergement",
+      "subtitle": "Solutions Cloud MENA",
+      "description": "Hébergement local sécurisé, serveurs dédiés, solutions cloud hybrides pour entreprises MENA.",
+      "features": ["Datacenter MENA", "Cloud privé/hybride", "Haute disponibilité"],
+      "metric": "99.9%",
+      "metricLabel": "Uptime garanti"
+    }
+  },
+  "solutions": {
+    "badge": "💡 Solutions Digitales MENA",
+    "title": "Solutions Digitales",
+    "titleAccent": "d'Excellence",
+    "subtitle": "Développement Sur Mesure | MENA",
+    "description": "Transformez vos ambitions en solutions digitales exceptionnelles. Notre expertise technique et notre vision créative construisent l'avenir de votre entreprise.",
+    "technologies": "Développement Mobile • E-commerce • ERP/CRM • Intelligence Artificielle • IoT • Cybersécurité",
+    "cta": "Démarrons votre projet digital",
+    "statsText": "Plus de 1200 projets livrés • Support 24/7 • Équipe régionale MENA",
+    "contactInfo": "📍 Région MENA • 📞 +213 549 575 512 • 📧 contact@symloop.com",
+    "tagline": "Partenaire technologique de confiance pour la transformation digitale dans la région MENA",
+    "mobile": {
+      "title": "Développement d'Applications Mobiles",
+      "subtitle": "Flutter & React Native",
+      "punchline": "Applications mobiles performantes avec Flutter et React Native pour iOS et Android dans la région MENA."
+    },
+    "ecommerce": {
+      "title": "Sites E-commerce CIB Edahabia",
+      "subtitle": "Paiement Local Intégré",
+      "punchline": "Boutiques en ligne optimisées avec paiement local pour le marché MENA."
+    },
+    "erp": {
+      "title": "Logiciels ERP/CRM Sur Mesure",
+      "subtitle": "Gestion d'Entreprise",
+      "punchline": "Solutions ERP et CRM personnalisées pour optimiser la gestion de votre entreprise MENA."
+    },
+    "ai": {
+      "title": "Intelligence Artificielle & IA Vocale",
+      "subtitle": "ChatGPT, Whisper, LLM",
+      "punchline": "Solutions IA avancées avec ChatGPT, Whisper et assistants vocaux pour entreprises MENA."
+    },
+    "iot": {
+      "title": "Solutions IoT & Objets Connectés",
+      "subtitle": "ESP32 & Capteurs",
+      "punchline": "Développement IoT avec ESP32, capteurs et objets connectés pour l'industrie MENA."
+    },
+    "cybersecurity": {
+      "title": "Cybersécurité Entreprise",
+      "subtitle": "Protection & Conformité",
+      "punchline": "Solutions de cybersécurité adaptées aux PME et entreprises MENA."
+    },
+    "web": {
+      "title": "Création Sites Web Professionnels",
+      "subtitle": "Visibilité & SEO",
+      "punchline": "Sites web modernes, rapides et optimisés SEO pour entreprises MENA."
+    },
+    "cloud": {
+      "title": "Solutions Cloud & Infrastructure",
+      "subtitle": "Hébergement & Serveurs",
+      "punchline": "Infrastructure cloud sécurisée et hébergement professionnel pour entreprises MENA."
+    },
+    "digital": {
+      "title": "Transformation Digitale",
+      "subtitle": "Modernisation IT",
+      "punchline": "Accompagnement complet dans la transformation digitale de votre entreprise MENA."
+    },
+    "marketing": {
+      "title": "Marketing Digital & SEO",
+      "subtitle": "Visibilité Online",
+      "punchline": "Stratégies marketing digital et référencement SEO pour entreprises MENA."
+    },
+    "network": {
+      "title": "Solutions Réseau Entreprise",
+      "subtitle": "Architecture Réseau",
+      "punchline": "Conception et déploiement d'infrastructures réseau pour entreprises MENA."
+    },
+    "consulting": {
+      "title": "Consulting Tech & Stratégie",
+      "subtitle": "Expertise Technique",
+      "punchline": "Conseil technologique et stratégie digitale pour entreprises MENA innovantes."
+    },
+    "erp": {
+      "title": "ERP Sur Mesure",
+      "description": "Système intégré de gestion d'entreprise adapté aux besoins MENA",
+      "features": ["Gestion des stocks", "Comptabilité MENA", "Paie & RH", "Ventes & Achats"]
+    },
+    "ecommerce": {
+      "title": "E-commerce MENA",
+      "description": "Boutiques en ligne avec paiement CIB/Edahabia intégré",
+      "features": ["Paiement local", "Livraison régionale MENA", "Multi-devises", "Mobile-first"]
+    },
+    "healthcare": {
+      "title": "Santé Digitale",
+      "description": "Solutions pour cliniques, hôpitaux et cabinets médicaux",
+      "features": ["Gestion patients", "Dossier médical", "Téléconsultation", "Pharmacie"]
+    },
+    "education": {
+      "title": "EdTech MENA",
+      "description": "Plateformes éducatives pour écoles et universités MENA",
+      "features": ["LMS complet", "Classes virtuelles", "Évaluation en ligne", "Suivi élèves"]
+    }
+  },
+  "technologies": {
+    "badge": "🌍 Stack Technologique MENA",
+    "title": "Technologies",
+    "titleAccent": "d'Excellence",
+    "subtitle": "Stack Moderne pour la Région MENA",
+    "description": "Maîtrise complète des technologies de pointe pour créer des solutions performantes et scalables adaptées aux défis du développement numérique au Moyen-Orient et en Afrique du Nord.",
+    "techList": "React • Next.js • Laravel • Flutter • Node.js • Python • MongoDB • AI/ML • Cloud Native",
+    "stats": {
+      "technologies": "Technologies Maîtrisées",
+      "solutions": "Solutions Modernes",
+      "countries": "Pays MENA Couverts",
+      "support": "Support Premium"
+    },
+    "cta": "Consultez nos Experts",
+    "ctaDescription": "Discutons de la stack technologique idéale pour votre projet MENA",
+    "ctaSubtext": "Expertise technique • Solutions sur mesure • Support multilingue",
+    "footer": "Solutions technologiques pour la transformation digitale MENA",
+    "seoText": "Solutions techniques avancées pour la région MENA incluant l'Algérie, le Maroc, la Tunisie, les Émirats Arabes Unis, l'Arabie Saoudite, le Qatar, le Koweït, le Liban, la Jordanie et l'Égypte. Stack moderne adaptée aux défis du développement numérique au Moyen-Orient et en Afrique du Nord.",
+    "frontend": {
+      "title": "Frontend",
+      "technologies": ["React.js", "Next.js", "Vue.js", "Angular", "TypeScript", "Tailwind CSS"]
+    },
+    "backend": {
+      "title": "Backend",
+      "technologies": ["Node.js", "PHP Laravel", "Python Django", "Java Spring", ".NET Core", "Go"]
+    },
+    "mobile": {
+      "title": "Mobile",
+      "technologies": ["React Native", "Flutter", "iOS Native", "Android Native", "Ionic", "Xamarin"]
+    },
+    "database": {
+      "title": "Bases de Données",
+      "technologies": ["Oracle", "MySQL", "PostgreSQL", "MongoDB", "Redis", "Elasticsearch"]
+    },
+    "cloud": {
+      "title": "Cloud & DevOps",
+      "technologies": ["AWS", "Azure", "Docker", "Kubernetes", "CI/CD", "Terraform"]
+    }
+  },
+  "services": {
+    "seo": {
+      "title": "Symloop - Services IT MENA | Développeur Flutter | Applications Mobiles et Développement Web",
+      "description": "Services IT de premier plan dans la région MENA. Développement Flutter, applications mobiles, sites e-commerce avec paiement local. Solutions logicielles sur mesure pour entreprises MENA.",
+      "keywords": "développeur flutter mena, développement application mobile mena, création site web mena, services it mena, développement logiciel mena, e-commerce mena, ERP CRM mena, développeur web mena, react native mena, société logiciel mena"
+    },
+    "catalog": {
+      "name": "Services IT et Développement"
+    },
+    "hero": {
+      "title": "Votre Partenaire IT dans la région MENA",
+      "subtitle": "Solutions Digitales Sur Mesure",
+      "description": "Comment créer une application mobile ? Symloop est votre partenaire technologique dans la région MENA. Développement Flutter, React Native, sites e-commerce avec paiement local, ERP sur mesure, solutions cloud et cybersécurité. Services IT complets pour entreprises MENA.",
+      "consultation": "Consultation Gratuite",
+      "quote": "Devis avec Estimation IA",
+      "locations": "EAU • Arabie Saoudite • Qatar • Koweït • Égypte",
+      "coverage": "Région MENA couverte",
+      "badge": "Leader IT dans la région MENA depuis 2013",
+      "servicesTitle": "Services IT Complets dans la région MENA",
+      "servicesSubtitle": "Solutions technologiques sur mesure pour la transformation digitale des entreprises MENA. Du développement Flutter aux solutions cloud.",
+      "ctaNotFound": "Vous ne trouvez pas le service que vous cherchez?",
+      "ctaTalk": "Discutez avec nos experts"
+    },
+    "industries": {
+      "title": "Industries que Nous Servons",
+      "subtitle": "Solutions IT adaptées aux besoins spécifiques de chaque secteur d'activité dans la région MENA",
+      "manufacturing": "Solutions ERP pour usines MENA",
+      "health": "Logiciels gestion médicale MENA",
+      "education": "E-learning et gestion scolaire",
+      "commerce": "Solutions point de vente et stock",
+      "transport": "Tracking et gestion flottes",
+      "construction": "Gestion projets construction",
+      "agriculture": "IoT agriculture intelligente",
+      "banking": "Fintech solutions bancaires"
+    },
+    "process": {
+      "title": "Notre Processus de Travail",
+      "subtitle": "Une méthodologie éprouvée pour garantir le succès de vos projets IT",
+      "step1": {
+        "title": "Consultation Gratuite",
+        "description": "Analyse besoins, conseil expert, devis personnalisé"
+      },
+      "step2": {
+        "title": "Conception & Design",
+        "description": "Architecture technique, maquettes UI/UX, validation"
+      },
+      "step3": {
+        "title": "Développement Agile",
+        "description": "Coding, tests, livraisons itératives, feedback client"
+      },
+      "step4": {
+        "title": "Déploiement & Formation",
+        "description": "Mise en production, formation utilisateurs, documentation"
+      },
+      "step5": {
+        "title": "Support & Évolution",
+        "description": "Maintenance, mises à jour, support technique 24/7"
+      }
+    },
+    "testimonials": {
+      "title": "Ce que Disent nos Clients",
+      "subtitle": "Plus de 1200 entreprises MENA nous font confiance pour leur transformation digitale"
+    },
+    "finalCta": {
+      "title": "Prêt à Digitaliser Votre Entreprise?",
+      "subtitle": "Rejoignez plus de 1200 entreprises MENA qui ont choisi Symloop pour leur transformation digitale",
+      "contact": {
+        "phone": "Appelez-nous",
+        "email": "Email",
+        "offices": "Bureaux",
+        "support247": "Support 24/7",
+        "response2h": "Réponse sous 2h",
+        "locations": "EAU • Arabie Saoudite • Qatar"
+      },
+      "footer": "🌍 Entreprise Régionale MENA • Solutions Sur Mesure • Support Local • Expertise Internationale"
+    },
+    "modal": {
+      "consultation": {
+        "title": "Consultation Gratuite",
+        "subtitle": "Choisissez comment vous souhaitez nous contacter pour votre consultation gratuite",
+        "methods": {
+          "whatsapp": "WhatsApp",
+          "viber": "Viber",
+          "phone": "Appel Direct"
+        },
+        "form": {
+          "name": "Nom complet *",
+          "namePlaceholder": "Votre nom",
+          "phone": "Téléphone *",
+          "phonePlaceholder": "+213 5XX XXX XXX",
+          "email": "Email",
+          "emailPlaceholder": "email@entreprise.dz",
+          "company": "Entreprise",
+          "companyPlaceholder": "Nom de votre entreprise",
+          "time": "Meilleur moment pour vous contacter",
+          "timeOptions": {
+            "choose": "Choisir...",
+            "morning": "Matin (9h-12h)",
+            "afternoon": "Après-midi (14h-17h)",
+            "evening": "Soir (17h-20h)",
+            "anytime": "N'importe quand"
+          }
+        },
+        "submit": "Demander la consultation",
+        "submitting": "Envoi en cours...",
+        "success": {
+          "title": "Demande envoyée avec succès!",
+          "message": "Nous vous contacterons dans les plus brefs délais."
+        },
+        "error": "Une erreur s'est produite. Veuillez réessayer.",
+        "selectMethod": "Veuillez choisir une méthode de contact"
+      },
+      "quote": {
+        "title": "Devis Personnalisé",
+        "subtitle": "Sélectionnez vos services et obtenez une estimation instantanée générée par IA",
+        "selectServices": "Sélectionnez vos services",
+        "aiEstimate": "Estimation IA",
+        "calculating": "Calcul en cours...",
+        "timeline": "Délai estimé: {{weeks}} semaines",
+        "discount": "(-{{percent}}% appliqué)",
+        "disclaimer": "Cette estimation est générée par IA. Contactez-nous pour un devis précis.",
+        "form": {
+          "clientName": "Nom complet *",
+          "email": "Email *",
+          "phone": "Téléphone *",
+          "company": "Entreprise",
+          "projectDescription": "Description de votre projet *",
+          "projectPlaceholder": "Décrivez votre projet, vos besoins spécifiques...",
+          "budget": "Budget prévu",
+          "budgetOptions": {
+            "select": "Sélectionner...",
+            "under100k": "Moins de 100,000 DA",
+            "100k500k": "100,000 - 500,000 DA",
+            "500k1M": "500,000 - 1,000,000 DA",
+            "1M5M": "1,000,000 - 5,000,000 DA",
+            "over5M": "Plus de 5,000,000 DA"
+          },
+          "timeline": "Délai souhaité",
+          "timelineOptions": {
+            "select": "Sélectionner...",
+            "urgent": "Urgent (< 1 mois)",
+            "1to3": "1-3 mois",
+            "3to6": "3-6 mois",
+            "over6": "Plus de 6 mois",
+            "flexible": "Flexible"
+          }
+        },
+        "submit": "Demander un devis détaillé",
+        "submitting": "Envoi en cours...",
+        "selectService": "Veuillez sélectionner au moins un service",
+        "success": {
+          "title": "Demande de devis envoyée!",
+          "message": "Notre équipe commerciale vous contactera sous 24h avec un devis détaillé.",
+          "estimate": "L'estimation IA était de {{min}} - {{max}} DA"
+        },
+        "error": "Une erreur s'est produite. Veuillez réessayer."
+      }
+    },
+    "stats": {
+      "projects": "Projets Réalisés",
+      "satisfaction": "Clients Satisfaits",
+      "experience": "Années d'Expérience",
+      "support": "Support Technique",
+      "developers": "Développeurs Experts",
+      "wilayas": "Pays MENA Couverts"
+    },
+    "categories": {
+      "all": "Tous",
+      "development": "Développement",
+      "mobile": "Mobile",
+      "web": "Web",
+      "infrastructure": "Infrastructure",
+      "support": "Support"
+    },
+    "cta": {
+      "notFound": "Vous ne trouvez pas le service que vous cherchez ?",
+      "talkToExperts": "Discutez avec nos experts"
+    },
+    "industries": {
+      "title": "Industries que Nous Servons",
+      "subtitle": "Solutions IT adaptées aux besoins spécifiques de chaque secteur d'activité dans la région MENA"
+    },
+    "process": {
+      "title": "Notre Processus de Travail",
+      "subtitle": "Une méthodologie éprouvée pour garantir le succès de vos projets IT"
+    },
+    "testimonials": {
+      "title": "Ce que Disent Nos Clients",
+      "subtitle": "Plus de 1200 entreprises MENA nous font confiance pour leur transformation digitale"
+    },
+    "finalCta": {
+      "title": "Prêt à Digitaliser Votre Entreprise ?",
+      "subtitle": "Rejoignez plus de 1200 entreprises MENA qui ont choisi Symloop pour leur transformation digitale",
+      "contact": {
+        "phone": "Appelez-nous",
+        "email": "Email",
+        "offices": "Bureaux",
+        "support247": "Support 24/7",
+        "response2h": "Réponse sous 2h",
+        "locations": "EAU • Arabie Saoudite • Qatar"
+      },
+      "footer": "🌍 Entreprise Régionale MENA • Solutions Sur Mesure • Support Local • Expertise Internationale"
+    },
+    "notFound": {
+      "title": "Service Introuvable",
+      "description": "Le service demandé n'existe pas."
+    },
+    "pricing": "Tarif",
+    "duration": "Délai",
+    "features": "Fonctionnalités Incluses",
+    "technologies": "Technologies Utilisées",
+    "applications": "Applications Concrètes",
+    "cta": {
+      "title": "Prêt à Lancer Votre Projet ?",
+      "subtitle": "Obtenez une consultation gratuite et un devis personnalisé pour vos besoins"
+    }
+  },
+  "company": {
+    "title": "Symloop Technology",
+    "tagline": "Votre Partenaire IT de Confiance dans la région MENA",
+    "description": "Depuis 2012, nous accompagnons les entreprises MENA dans leur transformation digitale avec des solutions IT sur mesure.",
+    "mission": "Démocratiser l'accès aux technologies avancées pour toutes les entreprises MENA, des startups aux grandes corporations.",
+    "vision": "Devenir le leader incontournable des solutions IT dans la région MENA et contribuer à l'écosystème technologique régional.",
+    "values": {
+      "excellence": {
+        "title": "Excellence",
+        "description": "Nous visons l'excellence dans chaque projet, chaque ligne de code, chaque interaction client."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Nous adoptons les dernières technologies pour offrir des solutions modernes et efficaces."
+      },
+      "partnership": {
+        "title": "Partenariat",
+        "description": "Nous construisons des relations durables basées sur la confiance et la transparence."
+      },
+      "locality": {
+        "title": "Ancrage Local",
+        "description": "Nous comprenons le marché MENA et adaptons nos solutions aux spécificités régionales."
+      }
+    },
+    "stats": {
+      "experience": "12+ Années",
+      "projects": "500+ Projets",
+      "clients": "200+ Clients",
+      "team": "30+ Experts",
+      "wilayas": "58 Wilayas",
+      "satisfaction": "98% Satisfaction"
+    }
+  },
+  "cta": {
+    "getQuote": "Demander un Devis",
+    "freeConsultation": "Consultation Gratuite",
+    "startProject": "Démarrer un Projet",
+    "learnMore": "En savoir plus",
+    "contactUs": "Nous Contacter",
+    "viewPortfolio": "Voir nos Réalisations",
+    "requestQuote": "Demander un Devis",
+    "downloadBrochure": "Télécharger la Brochure",
+    "scheduleDemo": "Planifier une Démo"
+  },
+  "testimonials": {
+    "title": "Ce que Disent nos Clients",
+    "subtitle": "La satisfaction client au cœur de notre mission",
+    "client1": {
+      "name": "Ahmed Benali",
+      "position": "Directeur IT",
+      "company": "Groupe CEVITAL",
+      "testimonial": "Symloop a développé notre ERP sur mesure en 6 mois. Une équipe professionnelle qui comprend les enjeux business."
+    },
+    "client2": {
+      "name": "Fatima Zahra",
+      "position": "CEO",
+      "company": "StartupDZ",
+      "testimonial": "Notre application mobile a été livrée dans les délais avec une qualité exceptionnelle. Je recommande fortement!"
+    },
+    "client3": {
+      "name": "Karim Mansouri",
+      "position": "CTO",
+      "company": "MENA Telecom",
+      "testimonial": "L'infrastructure réseau mise en place par Symloop fonctionne parfaitement depuis 3 ans. Support réactif 24/7."
+    }
+  },
+  "process": {
+    "title": "Notre Méthode de Travail",
+    "subtitle": "Un processus éprouvé pour garantir le succès de votre projet",
+    "step1": {
+      "title": "Analyse & Conseil",
+      "description": "Nous analysons vos besoins et vous conseillons sur les meilleures solutions techniques.",
+      "duration": "1-2 semaines"
+    },
+    "step2": {
+      "title": "Conception & Design",
+      "description": "Nous concevons l'architecture technique et le design UX/UI de votre solution.",
+      "duration": "2-4 semaines"
+    },
+    "step3": {
+      "title": "Développement Agile",
+      "description": "Développement itératif avec des points réguliers et des livraisons fréquentes.",
+      "duration": "4-16 semaines"
+    },
+    "step4": {
+      "title": "Tests & Déploiement",
+      "description": "Tests approfondis, formation de vos équipes et déploiement en production.",
+      "duration": "1-2 semaines"
+    },
+    "step5": {
+      "title": "Support & Évolution",
+      "description": "Maintenance continue et évolutions selon vos besoins business.",
+      "duration": "Continu"
+    }
+  },
+  "faq": {
+    "title": "Questions Fréquentes",
+    "subtitle": "Tout ce que vous devez savoir sur nos services",
+    "q1": {
+      "question": "Combien coûte le développement d'une application mobile dans la région MENA?",
+      "answer": "Les tarifs varient de 180k à 1.2M DA selon la complexité. Nous proposons toujours un devis personnalisé après analyse de vos besoins."
+    },
+    "q2": {
+      "question": "Intervenez-vous dans toute la région MENA?",
+      "answer": "Oui, nous intervenons dans toute la région MENA. Notre équipe peut se déplacer sur site si nécessaire."
+    },
+    "q3": {
+      "question": "Proposez-vous des solutions de paiement local (CIB, Edahabia)?",
+      "answer": "Absolument! Nous intégrons tous les moyens de paiement régionaux MENA et les solutions bancaires locales."
+    },
+    "q4": {
+      "question": "Quel est votre délai moyen pour un projet?",
+      "answer": "Cela dépend de la complexité : 2-4 semaines pour un site web, 3-6 mois pour une application, 6-12 mois pour un ERP complet."
+    },
+    "q5": {
+      "question": "Offrez-vous une garantie sur vos développements?",
+      "answer": "Oui, tous nos projets incluent une garantie de 12 mois et un support technique continu."
+    }
+  },
+  "pricing": {
+    "title": "Nos Tarifs Transparents",
+    "subtitle": "Des prix adaptés au marché MENA",
+    "website": {
+      "title": "Site Web",
+      "price": "60k - 500k DA",
+      "features": ["Design responsive", "CMS intégré", "SEO optimisé", "Hébergement 1 an"]
+    },
+    "mobile": {
+      "title": "Application Mobile",
+      "price": "180k - 1.2M DA",
+      "features": ["iOS & Android", "Backend inclus", "Publication stores", "Maintenance 6 mois"]
+    },
+    "erp": {
+      "title": "ERP Sur Mesure",
+      "price": "500k - 3M DA",
+      "features": ["Modules personnalisés", "Formation équipes", "Migration données", "Support 12 mois"]
+    }
+  },
+  "companyContact": {
+    "badge": "Partenariat Entreprise",
+    "title": "Êtes-vous une entreprise ?",
+    "description": "Notre équipe B2B est prête à vous écouter et à transformer vos idées en solutions digitales innovantes.",
+    "steps": {
+      "company": {
+        "title": "Entreprise",
+        "subtitle": "Parlez-nous de votre entreprise"
+      },
+      "sector": {
+        "title": "Secteur",
+        "subtitle": "Quel est votre domaine d'activité ?"
+      },
+      "need": {
+        "title": "Besoin",
+        "subtitle": "Décrivez votre projet"
+      },
+      "contact": {
+        "title": "Contact",
+        "subtitle": "Comment vous joindre ?"
+      },
+      "email": {
+        "title": "Email",
+        "subtitle": "Votre adresse email"
+      }
+    },
+    "progress": {
+      "step": "Étape {{current}} sur {{total}}",
+      "completed": "complété"
+    },
+    "form": {
+      "companyName": {
+        "label": "Nom de l'entreprise *",
+        "placeholder": "Ex: Symloop Technologies"
+      },
+      "sector": {
+        "label": "Secteur d'activité *",
+        "placeholder": "Sélectionnez votre secteur",
+        "options": {
+          "industry": "Industrie",
+          "commerce": "Commerce & Distribution",
+          "services": "Services",
+          "health": "Santé",
+          "education": "Éducation",
+          "finance": "Finance & Banque",
+          "realEstate": "Immobilier",
+          "transport": "Transport & Logistique",
+          "other": "Autre"
+        }
+      },
+      "need": {
+        "label": "Décrivez votre besoin *",
+        "placeholder": "Décrivez votre projet, vos objectifs et vos attentes..."
+      },
+      "phone": {
+        "label": "Numéro de téléphone *",
+        "placeholder": "+213 6XX XX XX XX"
+      },
+      "email": {
+        "label": "Adresse Email *",
+        "placeholder": "contact@votre-entreprise.com"
+      },
+      "navigation": {
+        "previous": "Précédent",
+        "next": "Suivant",
+        "submit": "Envoyer ma demande",
+        "submitting": "Envoi en cours..."
+      }
+    },
+    "errors": {
+      "requiredField": "Veuillez remplir ce champ.",
+      "submitError": "Erreur lors de l'envoi.",
+      "duplicateEmail": "Une demande récente a déjà été envoyée avec cette adresse email.",
+      "invalidData": "Données invalides. Vérifiez vos informations.",
+      "networkError": "Problème de connexion. Vérifiez votre internet.",
+      "generalError": "Erreur lors de l'envoi. Veuillez réessayer."
+    },
+    "success": {
+      "title": "Demande envoyée avec succès !",
+      "message": "Notre équipe B2B vous contactera dans les 24h."
+    },
+    "trustIndicators": {
+      "quickResponse": {
+        "title": "Réponse rapide",
+        "desc": "Sous 24h ouvrées"
+      },
+      "secureData": {
+        "title": "Données sécurisées",
+        "desc": "Confidentialité garantie"
+      },
+      "customSolutions": {
+        "title": "Solutions sur mesure",
+        "desc": "Adaptées à vos besoins"
+      }
+    }
+  },
+  "servicesData": {
+    "web": {
+      "title": "Sites Web Professionnels",
+      "subtitle": "Modernes et Optimisés SEO",
+      "description": "Nous créons des sites modernes, rapides et optimisés SEO pour votre présence en ligne dans la région MENA.",
+      "price": "60k - 500k DA",
+      "duration": "2-6 semaines",
+      "features": ["Design Responsive", "Optimisation SEO", "Intégration CMS", "Hébergement Local", "Certificat SSL", "Google Analytics"],
+      "technologies": ["React", "Next.js", "WordPress", "Laravel", "Tailwind CSS"]
+    },
+    "mobile": {
+      "title": "Développement d'Applications Mobiles",
+      "subtitle": "Flutter et React Native",
+      "description": "Applications mobiles Android et iOS performantes et intuitives pour votre entreprise MENA.",
+      "price": "180k - 1.2M DA",
+      "duration": "8-16 semaines",
+      "features": ["Cross-platform", "Performance Native", "Mode Hors-ligne", "Notifications Push", "Publication Stores", "Intégration API"],
+      "technologies": ["Flutter", "React Native", "Dart", "JavaScript", "Firebase"]
+    },
+    "hosting": {
+      "title": "Hébergement Web et Cloud",
+      "subtitle": "Hébergement Sécurisé MENA",
+      "description": "Solutions d'hébergement sécurisées et rapides adaptées à vos besoins avec serveurs locaux MENA.",
+      "price": "5k - 50k DA/mois",
+      "duration": "Configuration immédiate",
+      "features": ["99.9% Uptime", "Serveurs DZ", "Certificat SSL", "Sauvegardes Quotidiennes", "Support 24/7", "Intégration CDN"],
+      "technologies": ["Serveurs Linux", "cPanel", "CloudFlare", "Apache", "Nginx"]
+    },
+    "software": {
+      "title": "Logiciels sur Mesure",
+      "subtitle": "ERP et Solutions Métier",
+      "description": "Développement de logiciels personnalisés pour optimiser les opérations de votre entreprise MENA.",
+      "price": "500k - 3M DA",
+      "duration": "12-24 semaines",
+      "features": ["Développement sur Mesure", "Conception Base de Données", "Formation Utilisateurs", "Documentation", "Support 1 An", "Architecture Évolutive"],
+      "technologies": ["Laravel", "React", "Node.js", "MySQL", "PostgreSQL"]
+    },
+    "iot": {
+      "title": "Solutions IoT et Objets Connectés",
+      "subtitle": "ESP32, Capteurs et Agriculture Intelligente",
+      "description": "Développement IoT complet avec ESP32, capteurs et objets connectés pour l'industrie MENA et l'agriculture intelligente.",
+      "price": "200k - 2M DA",
+      "duration": "8-20 semaines",
+      "features": [
+        "Développement ESP32/ESP8266",
+        "Intégration Capteurs (Température, Humidité, Sol)",
+        "Monitoring Temps Réel",
+        "Contrôle par Application Mobile",
+        "Tableau de Bord Cloud",
+        "Solutions Agriculture Intelligente",
+        "Monitoring Industriel IoT",
+        "Systèmes de Gestion Énergétique",
+        "Contrôle à Distance des Appareils",
+        "Analyse de Données et Rapports"
+      ],
+      "technologies": ["ESP32", "Arduino", "C++", "MQTT", "LoRaWAN", "WiFi", "Bluetooth", "React Native", "Node.js", "InfluxDB"],
+      "applications": [
+        "Agriculture Intelligente : Monitoring du sol, automatisation irrigation, optimisation des cultures",
+        "Monitoring Industriel : Suivi d'équipements, maintenance prédictive, efficacité énergétique",
+        "Bâtiments Intelligents : Contrôle climatique, systèmes de sécurité, gestion énergétique",
+        "Monitoring Environnemental : Qualité de l'air, stations météo, suivi pollution",
+        "Gestion du Bétail : Suivi d'animaux, monitoring santé, automatisation alimentation"
+      ]
+    },
+    "ai": {
+      "title": "Intelligence Artificielle et IA Vocale",
+      "subtitle": "ChatGPT, Machine Learning et Vision par Ordinateur",
+      "description": "Solutions IA avancées avec intégration ChatGPT, machine learning, assistants vocaux et vision par ordinateur pour les entreprises MENA.",
+      "price": "300k - 3M DA",
+      "duration": "10-24 semaines",
+      "features": [
+        "Intégration API ChatGPT",
+        "Modèles de Langage Personnalisés",
+        "Reconnaissance Vocale (Whisper)",
+        "Synthèse Vocale en Arabe/Français",
+        "Vision par Ordinateur et Reconnaissance d'Images",
+        "Traitement du Langage Naturel",
+        "Analyse de Sentiment",
+        "Analyses Prédictives",
+        "Support Client Automatisé",
+        "Tableaux de Bord Business Intelligence"
+      ],
+      "technologies": ["OpenAI GPT", "Python", "TensorFlow", "PyTorch", "Whisper", "OpenCV", "Scikit-learn", "FastAPI", "React", "Docker"],
+      "applications": [
+        "Service Client : Chatbots IA avec ChatGPT, support multilingue (Arabe/Français/Anglais)",
+        "Assistants Vocaux : Contrôle vocal intelligent pour entreprises, commandes vocales en arabe",
+        "Traitement de Documents : Traitement automatisé factures, analyse contrats, OCR",
+        "Vision par Ordinateur : Contrôle qualité, surveillance sécurité, analyse d'images médicales",
+        "Analyses Business : Prévisions ventes, analyse comportement clients, insights marché",
+        "Génération de Contenu : Contenu marketing automatisé, posts réseaux sociaux, descriptions produits"
+      ]
+    },
+    "ecommerce": {
+      "title": "E-commerce CIB Edahabia",
+      "subtitle": "Intégration Paiement Local",
+      "description": "Boutiques en ligne optimisées avec intégration paiement local pour le marché MENA.",
+      "price": "150k - 800k DA",
+      "duration": "6-12 semaines",
+      "features": ["Paiement CIB", "Intégration Edahabia", "Gestion Stock", "Suivi Commandes", "Multi-devises", "Livraison 58 Wilayas"],
+      "technologies": ["WooCommerce", "Shopify", "Laravel", "React", "APIs Paiement"]
+    },
+    "cybersecurity": {
+      "title": "Cybersécurité Entreprise",
+      "subtitle": "Protection et Conformité DZ",
+      "description": "Solutions de cybersécurité adaptées aux PME et entreprises MENA avec conformité réglementaire.",
+      "price": "100k - 1M DA",
+      "duration": "4-12 semaines",
+      "features": ["Audit Sécurité", "Configuration Firewall", "Configuration VPN", "Protection Données", "Formation Personnel", "Rapports Conformité"],
+      "technologies": ["pfSense", "OpenVPN", "Fail2Ban", "OSSEC", "Wireshark"]
+    }
+  },
+  "servicesPage": {
+    "title": "Services IT & Développement",
+    "description": "Services IT leader dans la région MENA. Développement Flutter, applications mobiles, sites e-commerce avec paiement local. Solutions logicielles personnalisées pour entreprises MENA.",
+    "keywords": "développeur flutter mena, développement application mobile, création site web, services it, développement logiciel",
+    "badge": "Leader IT MENA depuis 2013",
+    "heroTitle": "Votre Partenaire IT en MENA",
+    "heroSubtitle": "Solutions Digitales Sur Mesure",
+    "heroDescription": "Comment créer une application mobile ? Symloop est votre partenaire technologique en MENA. Développement Flutter, React Native, sites e-commerce avec paiement local, ERP personnalisés, solutions cloud et cybersécurité. Services IT complets pour entreprises MENA.",
+    "heroLocations": "EAU • Arabie Saoudite • Qatar • Koweït • Égypte",
+    "heroCoverage": "Région MENA couverte",
+    "categories": {
+      "tous": "Tous",
+      "développement": "Développement",
+      "mobile": "Mobile",
+      "web": "Web",
+      "infrastructure": "Infrastructure"
+    },
+    "consultation": "Consultation Gratuite",
+    "quote": "Devis IA",
+    "servicesTitle": "Services IT Complets en MENA",
+    "servicesSubtitle": "Solutions technologiques personnalisées pour la transformation digitale des entreprises MENA. Du développement Flutter aux solutions cloud.",
+    "ctaNotFound": "Vous ne trouvez pas le service recherché ?",
+    "ctaTalk": "Parlez à nos experts",
+    "customPricing": "Devis Sur Mesure - Contactez-nous",
+    "contactUs": "Contactez-nous pour un Devis Personnalisé",
+    "priceOnQuote": "Prix sur devis",
+    "estimateDisclaimer": "Cette estimation est générée par IA. Contactez-nous pour un devis précis.",
+    "timeline": "Délai estimé: {{weeks}} semaines",
+    "timelineLabel": "Délai"
+  },
+  "blog": {
+    "title": "Symloop Tech Blog",
+    "subtitle": "Insights exclusifs, tendances IT et guides pratiques pour l'écosystème technologique MENA",
+    "expertiseBadge": "Expertise Tech Premium",
+    "searchPlaceholder": "Rechercher des articles...",
+    "categories": {
+      "all": "Tous",
+      "mobile": "Mobile",
+      "development": "Développement",
+      "seo": "SEO",
+      "ai": "Intelligence Artificielle",
+      "security": "Sécurité",
+      "cloud": "Cloud",
+      "pricing": "Pricing",
+      "business": "Business",
+      "guide": "Guide"
+    },
+    "stats": {
+      "articles": "Articles Experts",
+      "experts": "Experts Tech",
+      "readers": "Lecteurs Mensuels"
+    },
+    "cta": {
+      "explore": "Explorer les Articles",
+      "newsletter": "Newsletter Premium"
+    },
+    "featured": {
+      "title": "Articles à la Une",
+      "badge": "Featured"
+    },
+    "allArticles": "Tous les Articles",
+    "categoryArticles": "Articles {{category}}",
+    "articlesFound": "{{count}} article trouvé",
+    "articlesFoundPlural": "{{count}} articles trouvés",
+    "noArticles": {
+      "title": "Aucun article trouvé",
+      "subtitle": "Essayez avec d'autres mots-clés ou catégories"
+    },
+    "meta": {
+      "readTime": "{{time}} min",
+      "author": "Expert Tech",
+      "views": "{{count}} vues"
+    },
+    "newsletter": {
+      "title": "Newsletter Premium Tech",
+      "subtitle": "Recevez les dernières tendances, analyses exclusives et guides pratiques directement dans votre boîte mail.",
+      "placeholder": "Votre email professionnel...",
+      "subscribe": "S'abonner",
+      "disclaimer": "100% gratuit • Pas de spam • Désinscription facile"
+    }
+  },
+  "learning": {
+    "title": "Symloop Learning Academy",
+    "hero": {
+      "title": "Apprendre",
+      "subtitle": "Maîtrisez les technologies de demain",
+      "description": "Formations techniques de qualité dispensées par des experts. Développez vos compétences avec Symloop Academy."
+    },
+    "stats": {
+      "students": "Étudiants formés",
+      "courses": "Cours disponibles", 
+      "satisfaction": "Taux de satisfaction",
+      "support": "Suivi post-formation"
+    },
+    "sections": {
+      "courses": "Nos Formations",
+      "coursesSubtitle": "Choisissez votre domaine d'expertise",
+      "whyUs": "Pourquoi Symloop Academy ?",
+      "whyUsSubtitle": "Une approche unique pour votre développement professionnel"
+    },
+    "categories": {
+      "all": "Tous les cours",
+      "web": "Développement Web",
+      "mobile": "Mobile",
+      "backend": "Backend",
+      "iot": "IoT",
+      "ai": "Intelligence Artificielle"
+    },
+    "course": {
+      "level": "Niveau",
+      "duration": "Durée",
+      "whatYouLearn": "Ce que vous apprendrez",
+      "enroll": "S'inscrire maintenant",
+      "free": "Gratuit"
+    },
+    "benefits": {
+      "experts": {
+        "title": "Instructeurs experts",
+        "description": "Formateurs expérimentés du terrain avec une expertise reconnue"
+      },
+      "practical": {
+        "title": "Projets pratiques",
+        "description": "Apprenez en construisant de vrais projets professionnels"
+      },
+      "support": {
+        "title": "Suivi personnalisé",
+        "description": "Accompagnement individuel et mentorat après la formation"
+      }
+    },
+    "enrollment": {
+      "title": "Inscription",
+      "success": "Inscription envoyée avec succès!",
+      "successDesc": "Nous vous contacterons bientôt pour confirmer votre inscription.",
+      "fullName": "Nom complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "city": "Ville",
+      "selectCity": "Sélectionnez votre ville",
+      "experience": "Niveau d'expérience",
+      "selectExperience": "Sélectionnez votre niveau",
+      "motivation": "Motivation (optionnel)",
+      "motivationPlaceholder": "Parlez-nous de vos objectifs et motivations...",
+      "cancel": "Annuler",
+      "confirm": "Confirmer l'inscription",
+      "submitting": "Inscription en cours...",
+      "required": "*",
+      "levels": {
+        "beginner": "Débutant",
+        "intermediate": "Intermédiaire", 
+        "advanced": "Avancé",
+        "expert": "Expert"
+      },
+      "cities": {
+        "alger": "Alger",
+        "oran": "Oran",
+        "constantine": "Constantine",
+        "setif": "Sétif",
+        "annaba": "Annaba",
+        "blida": "Blida",
+        "batna": "Batna",
+        "other": "Autre"
+      },
+      "errors": {
+        "nameRequired": "Veuillez saisir votre nom complet.",
+        "emailRequired": "Veuillez saisir votre email.",
+        "phoneRequired": "Veuillez saisir votre numéro de téléphone.",
+        "cityRequired": "Veuillez sélectionner votre ville.",
+        "alreadyEnrolled": "Vous êtes déjà inscrit(e) à ce cours.",
+        "invalidData": "Données invalides. Vérifiez vos informations.",
+        "networkError": "Problème de connexion. Vérifiez votre internet.",
+        "genericError": "Erreur lors de l'inscription. Veuillez réessayer."
+      }
+    }
+  },
+  "recruitment": {
+    "title": "Rejoignez Symloop",
+    "subtitle": "Chez Symloop, nous construisons l'avenir de la technologie. Découvrez nos opportunités et propulsez votre carrière.",
+    "apply": "Postuler",
+    "applyFor": "Postuler pour",
+    "application": {
+      "success": "Candidature envoyée avec succès!",
+      "successDesc": "Nous vous contacterons bientôt.",
+      "name": "Votre Nom Complet",
+      "email": "Votre Email",
+      "submit": "Envoyer ma Candidature",
+      "submitting": "Envoi en cours...",
+      "fileFormats": "Formats acceptés: PDF, DOC, DOCX (max 5MB)",
+      "errors": {
+        "nameRequired": "Veuillez saisir votre nom complet.",
+        "emailRequired": "Veuillez saisir votre email.",
+        "cvRequired": "Veuillez sélectionner votre CV.",
+        "invalidFormat": "Format non supporté. Utilisez PDF, DOC ou DOCX uniquement.",
+        "fileTooLarge": "Fichier trop volumineux. Taille maximale: 5MB.",
+        "invalidData": "Données invalides. Vérifiez vos informations.",
+        "networkError": "Problème de connexion. Vérifiez votre internet.",
+        "genericError": "Erreur lors de l'envoi. Veuillez réessayer."
+      }
+    }
+  },
+  "menu": "Menu"
+}

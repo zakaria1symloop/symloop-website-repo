@@ -1,0 +1,130 @@
+# Symloop Technology MENA - Robots.txt
+# https://www.robotstxt.org/robotstxt.html
+# Leading IT Company in Algeria, Morocco, Tunisia, UAE, Saudi Arabia
+# Services: Flutter Development, IoT Solutions, AI/ML, Cybersecurity
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /cache/
+Disallow: /*.json$
+Disallow: /*_buildManifest.js$
+Disallow: /*_ssgManifest.js$
+Disallow: /404/
+Disallow: /500/
+
+# Allow search engines to crawl important MENA pages
+Allow: /services/
+Allow: /products/
+Allow: /blog/
+Allow: /contact/
+Allow: /recrutement/
+Allow: /learning/
+Allow: /fr/
+Allow: /en/
+Allow: /ar/
+
+# Priority crawling for service pages
+Allow: /services/developpement-logiciel-sur-mesure-algerie-mena
+Allow: /services/developpement-application-mobile-flutter-algerie-mena
+Allow: /services/creation-site-web-ecommerce-algerie-mena
+Allow: /services/solutions-iot-esp32-objets-connectes-algerie-mena
+Allow: /services/intelligence-artificielle-chatgpt-machine-learning-algerie-mena
+Allow: /services/cybersecurite-entreprise-protection-donnees-algerie-mena
+
+# Location-based service pages for MENA cities
+Allow: /services/developeur-flutter-alger-algerie
+Allow: /services/entreprise-informatique-setif-algerie
+Allow: /services/developpement-mobile-oran-algerie
+Allow: /services/creation-site-web-constantine-algerie
+Allow: /services/developpeur-flutter-casablanca-maroc
+Allow: /services/flutter-developer-dubai-uae
+Allow: /services/software-development-riyadh-saudi-arabia
+
+# Special rules for Google (preferred for MENA region)
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0.5
+Request-rate: 1/2s
+
+# Special rules for Bing (good coverage in MENA)
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+Request-rate: 1/3s
+
+# Yandex (some presence in MENA)
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+# Special rules for regional search engines
+User-agent: BaiduSpider
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+# Block aggressive crawlers and bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: LinkpadBot
+Disallow: /
+
+User-agent: ZoomBot
+Disallow: /
+
+User-agent: SiteAuditBot
+Disallow: /
+
+# Social media crawlers (allow for better social sharing)
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+# Sitemap locations (multiple for better indexing)
+Sitemap: https://symloop.com/sitemap.xml
+Sitemap: https://symloop.com/sitemap-fr.xml
+Sitemap: https://symloop.com/sitemap-en.xml
+Sitemap: https://symloop.com/sitemap-ar.xml
+Sitemap: https://symloop.com/sitemap-services.xml
+Sitemap: https://symloop.com/sitemap-locations.xml
+
+# Host directive (canonical domain)
+Host: https://symloop.com
+
+# Cache directive for better performance
+# Recommended crawl times for optimal server performance
+# Peak hours: Avoid 9-11 AM GMT+1 (Algerian business hours)
+# Preferred crawl times: 2-6 AM GMT+1 (low server load)

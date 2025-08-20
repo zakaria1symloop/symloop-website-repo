@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage - High Priority MENA -->
+  <url>
+    <loc>https://symloop.com</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://symloop.com" />
+    <!-- MENA-specific hreflang -->
+    <xhtml:link rel="alternate" hreflang="fr-DZ" href="https://symloop.com/fr" />
+    <xhtml:link rel="alternate" hreflang="fr-MA" href="https://symloop.com/fr" />
+    <xhtml:link rel="alternate" hreflang="fr-TN" href="https://symloop.com/fr" />
+    <xhtml:link rel="alternate" hreflang="ar-SA" href="https://symloop.com/ar" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://symloop.com/ar" />
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://symloop.com/en" />
+    <image:image>
+      <image:loc>https://symloop.com/assets/symloop-mena-it-company.png</image:loc>
+      <image:caption>Symloop Technology MENA - Leading IT Company Algeria, UAE, Morocco, Tunisia</image:caption>
+      <image:title>Symloop Technology MENA - Flutter Developer, IoT, AI Solutions</image:title>
+      <image:license>https://symloop.com</image:license>
+    </image:image>
+  </url>
+
+  <!-- French Homepage -->
+  <url>
+    <loc>https://symloop.com/fr</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://symloop.com" />
+    <xhtml:link rel="alternate" hreflang="fr-DZ" href="https://symloop.com/fr" />
+    <xhtml:link rel="alternate" hreflang="fr-MA" href="https://symloop.com/fr" />
+    <xhtml:link rel="alternate" hreflang="fr-TN" href="https://symloop.com/fr" />
+  </url>
+
+  <!-- English Homepage -->
+  <url>
+    <loc>https://symloop.com/en</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://symloop.com" />
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://symloop.com/en" />
+    <xhtml:link rel="alternate" hreflang="en-SA" href="https://symloop.com/en" />
+  </url>
+
+  <!-- Arabic Homepage -->
+  <url>
+    <loc>https://symloop.com/ar</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://symloop.com" />
+    <xhtml:link rel="alternate" hreflang="ar-SA" href="https://symloop.com/ar" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://symloop.com/ar" />
+    <xhtml:link rel="alternate" hreflang="ar-DZ" href="https://symloop.com/ar" />
+  </url>
+
+  <!-- Services Main Pages -->
+  <url>
+    <loc>https://symloop.com/services</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://symloop.com/services" />
+    <image:image>
+      <image:loc>https://symloop.com/assets/symloop-mena-services.png</image:loc>
+      <image:caption>Services IT MENA - Flutter Development, IoT, AI Solutions</image:caption>
+      <image:title>Symloop Technology MENA Services</image:title>
+    </image:image>
+  </url>
+
+  <!-- French Services -->
+  <url>
+    <loc>https://symloop.com/fr/services</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://symloop.com/services" />
+  </url>
+
+  <!-- English Services -->
+  <url>
+    <loc>https://symloop.com/en/services</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://symloop.com/services" />
+  </url>
+
+  <!-- Arabic Services -->
+  <url>
+    <loc>https://symloop.com/ar/services</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://symloop.com/services" />
+  </url>
+
+  <!-- Individual Service Pages - Custom Software Development -->
+  <url>
+    <loc>https://symloop.com/services/developpement-logiciel-sur-mesure-algerie-mena</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/developpement-logiciel-sur-mesure-algerie-mena" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/custom-software-development-algeria-mena" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/تطوير-البرمجيات-المخصصة-مينا" />
+    <image:image>
+      <image:loc>https://symloop.com/assets/custom-software-development-mena.png</image:loc>
+      <image:caption>Développement Logiciel Sur Mesure MENA - ERP, CRM, Applications Métier</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Flutter Mobile App Development -->
+  <url>
+    <loc>https://symloop.com/services/developpement-application-mobile-flutter-algerie-mena</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/developpement-application-mobile-flutter-algerie-mena" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/flutter-mobile-app-development-algeria-mena" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/تطوير-تطبيقات-الهاتف-فلاتر-مينا" />
+    <image:image>
+      <image:loc>https://symloop.com/assets/flutter-mobile-development-mena.png</image:loc>
+      <image:caption>Développement Application Mobile Flutter MENA - iOS, Android, Cross-Platform</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Website and E-commerce Development -->
+  <url>
+    <loc>https://symloop.com/services/creation-site-web-ecommerce-algerie-mena</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/creation-site-web-ecommerce-algerie-mena" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/website-ecommerce-development-algeria-mena" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/تطوير-مواقع-التجارة-الالكترونية-مينا" />
+    <image:image>
+      <image:loc>https://symloop.com/assets/ecommerce-website-development-mena.png</image:loc>
+      <image:caption>Création Sites Web E-commerce MENA - Responsive, SEO Optimisé</image:caption>
+    </image:image>
+  </url>
+
+  <!-- IoT Solutions ESP32 -->
+  <url>
+    <loc>https://symloop.com/services/solutions-iot-esp32-objets-connectes-algerie-mena</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/solutions-iot-esp32-objets-connectes-algerie-mena" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/iot-solutions-esp32-connected-objects-algeria-mena" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/حلول-انترنت-الاشياء-ESP32-مينا" />
+    <image:image>
+      <image:loc>https://symloop.com/assets/iot-esp32-solutions-mena.png</image:loc>
+      <image:caption>Solutions IoT ESP32 MENA - Agriculture Intelligente, Monitoring Industriel</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Artificial Intelligence and ChatGPT -->
+  <url>
+    <loc>https://symloop.com/services/intelligence-artificielle-chatgpt-machine-learning-algerie-mena</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/intelligence-artificielle-chatgpt-machine-learning-algerie-mena" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/artificial-intelligence-chatgpt-machine-learning-algeria-mena" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/الذكاء-الاصطناعي-ChatGPT-تعلم-الآلة-مينا" />
+    <image:image>
+      <image:loc>https://symloop.com/assets/ai-chatgpt-machine-learning-mena.png</image:loc>
+      <image:caption>Intelligence Artificielle ChatGPT MENA - Machine Learning, Vision par Ordinateur</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Enterprise Cybersecurity -->
+  <url>
+    <loc>https://symloop.com/services/cybersecurite-entreprise-protection-donnees-algerie-mena</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/cybersecurite-entreprise-protection-donnees-algerie-mena" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/enterprise-cybersecurity-data-protection-algeria-mena" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/الأمن-السيبراني-للشركات-حماية-البيانات-مينا" />
+    <image:image>
+      <image:loc>https://symloop.com/assets/enterprise-cybersecurity-mena.png</image:loc>
+      <image:caption>Cybersécurité Entreprise MENA - Protection Données, Audit Sécurité</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Products Pages -->
+  <url>
+    <loc>https://symloop.com/products</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/products" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/products" />
+  </url>
+
+  <url>
+    <loc>https://symloop.com/products/asa</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://symloop.com/products/asa.png</image:loc>
+      <image:caption>ASA - Algerian Smart Administration Platform</image:caption>
+      <image:title>ASA Algeria</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://symloop.com/products/symtv-light</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog Pages -->
+  <url>
+    <loc>https://symloop.com/blog</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/blog" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/blog" />
+  </url>
+
+  <url>
+    <loc>https://symloop.com/blog/seo-algerie</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://symloop.com/blog/comment-creer-application-mobile</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://symloop.com/blog/app-cost-in-algeria</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Contact and Other Pages -->
+  <url>
+    <loc>https://symloop.com/contact</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/contact" />
+  </url>
+
+  <url>
+    <loc>https://symloop.com/recrutement</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://symloop.com/learning</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- MENA Location-specific pages for local SEO -->
+  
+  <!-- Algeria Major Cities -->
+  <url>
+    <loc>https://symloop.com/services/developeur-flutter-alger-algerie</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/developeur-flutter-alger-algerie" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/flutter-developer-algiers-algeria" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/مطور-فلاتر-الجزائر-العاصمة" />
+  </url>
+
+  <url>
+    <loc>https://symloop.com/services/entreprise-informatique-setif-algerie</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/entreprise-informatique-setif-algerie" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/it-company-setif-algeria" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/شركة-تكنولوجيا-سطيف-الجزائر" />
+  </url>
+
+  <url>
+    <loc>https://symloop.com/services/developpement-mobile-oran-algerie</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/developpement-mobile-oran-algerie" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/mobile-development-oran-algeria" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/تطوير-الهاتف-المحمول-وهران-الجزائر" />
+  </url>
+
+  <url>
+    <loc>https://symloop.com/services/creation-site-web-constantine-algerie</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/creation-site-web-constantine-algerie" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/website-development-constantine-algeria" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/تطوير-مواقع-الويب-قسنطينة-الجزائر" />
+  </url>
+
+  <!-- Morocco Major Cities -->
+  <url>
+    <loc>https://symloop.com/services/developpeur-flutter-casablanca-maroc</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/developpeur-flutter-casablanca-maroc" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/flutter-developer-casablanca-morocco" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/مطور-فلاتر-الدار-البيضاء-المغرب" />
+  </url>
+
+  <url>
+    <loc>https://symloop.com/services/entreprise-informatique-rabat-maroc</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/entreprise-informatique-rabat-maroc" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/it-company-rabat-morocco" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/شركة-تكنولوجيا-الرباط-المغرب" />
+  </url>
+
+  <!-- Tunisia Major Cities -->
+  <url>
+    <loc>https://symloop.com/services/developpement-mobile-tunis-tunisie</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/developpement-mobile-tunis-tunisie" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/mobile-development-tunis-tunisia" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/تطوير-الهاتف-المحمول-تونس-تونس" />
+  </url>
+
+  <!-- UAE Major Cities -->
+  <url>
+    <loc>https://symloop.com/services/flutter-developer-dubai-uae</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/developpeur-flutter-dubai-emirats" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/flutter-developer-dubai-uae" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/مطور-فلاتر-دبي-الإمارات" />
+  </url>
+
+  <url>
+    <loc>https://symloop.com/services/mobile-app-development-abu-dhabi-uae</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/developpement-mobile-abu-dhabi-emirats" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/mobile-app-development-abu-dhabi-uae" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/تطوير-التطبيقات-أبوظبي-الإمارات" />
+  </url>
+
+  <!-- Saudi Arabia Major Cities -->
+  <url>
+    <loc>https://symloop.com/services/software-development-riyadh-saudi-arabia</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/developpement-logiciel-riyad-arabie-saoudite" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/software-development-riyadh-saudi-arabia" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/تطوير-البرمجيات-الرياض-السعودية" />
+  </url>
+
+  <url>
+    <loc>https://symloop.com/services/mobile-development-jeddah-saudi-arabia</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/developpement-mobile-djeddah-arabie-saoudite" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/mobile-development-jeddah-saudi-arabia" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/تطوير-الهاتف-المحمول-جدة-السعودية" />
+  </url>
+
+  <!-- Qatar -->
+  <url>
+    <loc>https://symloop.com/services/enterprise-software-doha-qatar</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://symloop.com/fr/services/logiciel-entreprise-doha-qatar" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://symloop.com/en/services/enterprise-software-doha-qatar" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://symloop.com/ar/services/برمجيات-المؤسسات-الدوحة-قطر" />
+  </url>
+
+</urlset>
