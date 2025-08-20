@@ -330,11 +330,11 @@ export default function Header() {
             <div className="flex items-center gap-3">
               <div className="relative">
                 <img 
-                  src="/sym-logo.png" 
+                  src="/assets/logo-symloop.png" 
                   alt="Symloop" 
                   className={`transition-all duration-500 ${
                     scrolled ? 'w-32 h-8' : 'w-40 h-10'
-                  } object-contain`}
+                  } object-contain brightness-0 invert`}
                 />
                 <div className={`absolute -top-1 -right-1 bg-green-400 rounded-full border-2 border-white animate-pulse transition-all duration-500 ${
                   scrolled ? 'w-2 h-2' : 'w-3 h-3'
