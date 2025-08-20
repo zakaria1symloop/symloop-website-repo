@@ -330,7 +330,7 @@ export default function Header() {
             <div className="flex items-center gap-3">
               <div className="relative">
                 <img 
-                  src="/assets/logo-symloop.png" 
+                  src="/sym-logo.png" 
                   alt="Symloop" 
                   className={`transition-all duration-500 ${
                     scrolled ? 'w-32 h-8' : 'w-40 h-10'
